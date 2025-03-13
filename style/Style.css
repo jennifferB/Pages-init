@@ -271,11 +271,9 @@ span{
 }
 @keyframes words{
     0%,40%{
-        content: 'Backend';
+        content: 'Aprendiz';
     }
-    81%, 90%{
-        content: 'Student';
-    }
+    
 }
 @keyframes typing{
     10%, 15%,
